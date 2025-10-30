@@ -9,7 +9,7 @@ Hive, Pig, and Spark.
 All code, data, and dependencies are pre-installed in a  
 portable Docker image available on Docker Hub.
 
-**1. Pull the image:**
+**1. Pull and run the image:**
 
 ```bash
 docker pull aymensatouri/hadoop-project:v999
